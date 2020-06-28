@@ -1,4 +1,5 @@
-# ESP8266_HomeAutomation
+# ESP8266_Home
+
 The project is created to control 4 appliances in home its just only on-off  After getting this code just to remove the SSID and PASSWD in your words.    
 
 <h1>Following git command used to push repository </h1>  
