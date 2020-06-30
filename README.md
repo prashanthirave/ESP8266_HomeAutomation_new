@@ -13,7 +13,7 @@ The project is created to control 4 appliances in home its just only on-off  Aft
 
 5. git config --global user.email "###################@gmail.com" 
 6. git commit -m "First commit" 
-7. git remote add origin https://github.com/prashanthirave/ESP8266_HomeAutomation.git 
+7. git remote add origin https://github.com/prashanthirave/ESP8266_HomeAutomation_new.git
 8. git push -u origin master  
 
 <h1> Here if we get error regarding pushing the file onto git</h1>  
